@@ -10,7 +10,13 @@ class OLD_CLONER:
     
     def banner(self):
         os.system("clear")
-        print("DEVELOPER  : HADI ANHAF AIMAN")
+        print("DEVELOPER  :        __  __                 _     _     _      
+ |  \/  |               | |   | |   (_)     
+ | \  / | ___  ___  __ _| |__ | |__  _ _ __ 
+ | |\/| |/ _ \/ __|/ _` | '_ \| '_ \| | '__|
+ | |  | | (_) \__ \ (_| | |_) | |_) | | |   
+ |_|  |_|\___/|___/\__,_|_.__/|_.__/|_|_|   
+                                          ")
         print("GITHUB     : MR-CODE-143")
         print("FEATURE    : OLD ID CLONER")
         print("VERSION    : 1.6 FREEEEE")
